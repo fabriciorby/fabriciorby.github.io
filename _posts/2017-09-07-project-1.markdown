@@ -7,7 +7,7 @@ img: wind.png
 alt: wind
 project-date: September 2017
 title: Wind
-url: http://fabriciorby.me/wind
-description: This is an experiment I did using gifs, javascript and YouTube Player API for iframes, the main goal is to prank the user by playing the famous "gemidão do zap". If you don't know what I mean, just be careful and turn your volume down. <br> Oh, all images and concept art credits go to <a href="https://fauux.neocities.org/"> fauux </a>
+url: <a href="fabriciorby.me/wind"> fabriciorby.me/wind <a/>
+description: This is an experiment I did using gifs, javascript and YouTube Player API for iframes, the main goal is to prank the user by playing the famous "gemidão do zap". If you don't know what I mean, just be careful and turn your volume down. <br> Oh, all images and concept art credits go to <a href="https://fauux.neocities.org/"> fauux</a>.
 
 ---
