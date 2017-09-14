@@ -99,7 +99,7 @@ header .intro-text .name {
     display: block;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 100;
 }
 
 header .intro-text .skills {
@@ -148,7 +148,7 @@ header .intro-text .skills {
 
 .navbar {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 100;
 }
 
 .navbar a:focus {
