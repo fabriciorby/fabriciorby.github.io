@@ -49,8 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: cel: 11 96828-4448
-  - line: e-mail: fabriciorby@hotmail
+  - line: fabriciorby@hotmail
 
 # Build settings
 markdown: kramdown
