@@ -1,0 +1,14 @@
+---
+
+layout: default
+modal-id: 1
+date: 2017-09-07
+img: wind.png
+alt: wind
+project-date: September 2017
+name: Wind
+category: Website
+url: http://fabriciorby.me/wind
+description: This is an experiment I did using gifs, javascript and YouTube Player API for iframes. Be careful. <br> Oh, all images and concept art credits go to <a href="https://fauux.neocities.org/"> fauux </a>
+
+---
