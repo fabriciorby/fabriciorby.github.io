@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Fabrício Yamamoto 
   location: Contato
-  social: Redes Sociais
+  social: Social Media
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,7 +45,7 @@ social:
   - title: github
     url: http://github.com/fabriciorby
   - title: linkedin
-    url: http://linkedin.com/fabriciorby
+    url: http://linkedin.com/in/fabriciorby
 
 # Postal address (add as many lines as necessary)
 address:
