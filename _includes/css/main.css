@@ -144,6 +144,7 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+	
 }
 
 .navbar {
@@ -161,6 +162,10 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+}
+
+.navbar-nav {
+	font-size: 13px;
 }
 
 .navbar-default,
