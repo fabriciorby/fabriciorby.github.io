@@ -33,9 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Fabrício Yamamoto 
-  location: Endereço
+  location: Contato
   social: Redes Sociais
-  credits: ??
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,19 +42,15 @@ social:
     url: http://twitter.com/fabriciorby
   - title: facebook
     url: http://facebook.com/fabriciorby
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/fabriciorby
+  - title: linkedin
+    url: http://linkedin.com/fabriciorby
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: top segredo
-
-# Credits content
-credits: 'lorem ipsum rsrs'
+  - line: cel: 11 96828-4448
+  - line: e-mail: fabriciorby@hotmail
 
 # Build settings
 markdown: kramdown
