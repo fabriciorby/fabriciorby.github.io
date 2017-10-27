@@ -18,6 +18,23 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+                    if {% if page.url == "/" %}
+                    <li class="page-scroll">
+                        <a href="#blog">BLOG</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="me/#portfolio">PORTFOLIO</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="me/#about">ABOUT</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="me/#contact">CONTACT</a>
+                    </li>
+                    {% else %}
+                    <li class="page-scroll">
+                        <a href="/#blog">BLOG</a>
+                    </li>
                     <li class="page-scroll">
                         <a href="#portfolio">PORTFOLIO</a>
                     </li>
@@ -27,6 +44,7 @@
                     <li class="page-scroll">
                         <a href="#contact">CONTACT</a>
                     </li>
+                    {% endif %}
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
