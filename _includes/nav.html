@@ -18,9 +18,9 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    if {% if page.url == "/" %}
+                    {% if page.url == "/" %}
                     <li class="page-scroll">
-                        <a href="#blog">BLOG</a>
+                        <a href="#blog">HOME</a>
                     </li>
                     <li class="page-scroll">
                         <a href="me/#portfolio">PORTFOLIO</a>
@@ -31,9 +31,22 @@
                     <li class="page-scroll">
                         <a href="me/#contact">CONTACT</a>
                     </li>
+                    {% elsif page.url contains '/post/' %}
+                    <li class="page-scroll">
+                        <a href="/#blog">HOME</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/me/#portfolio">PORTFOLIO</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/me/#about">ABOUT</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/me/#contact">CONTACT</a>
+                    </li>
                     {% else %}
                     <li class="page-scroll">
-                        <a href="/#blog">BLOG</a>
+                        <a href="/#blog">HOME</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#portfolio">PORTFOLIO</a>

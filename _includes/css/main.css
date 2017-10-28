@@ -454,3 +454,11 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.block {
+  display: inline-block;
+}
+
+.pleft {
+  padding-left: 5%;
+}
