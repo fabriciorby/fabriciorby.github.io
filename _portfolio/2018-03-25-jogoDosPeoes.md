@@ -4,7 +4,7 @@ layout: default
 modal-id: 3
 date: 2018-03-25
 img: peoes.png
-alt: Jogo dos Peões
+alt: peoes
 project-date: March 2018
 title: Jogo dos Peões
 link: <a target="_blank" href="https://fabriciorby.me/jogoDosPeoes/"> Website </a> / <a target="_blank" href="https://github.com/fabriciorby/jogoDosPeoes/"> Github repo </a>.
