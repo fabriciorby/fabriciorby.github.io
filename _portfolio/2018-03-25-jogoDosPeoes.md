@@ -3,7 +3,7 @@
 layout: default
 modal-id: 3
 date: 2018-03-25
-img: peoes.png
+img: webcamelo.png
 alt: WebCamelo
 project-date: March 2018
 title: Jogo dos Peões
