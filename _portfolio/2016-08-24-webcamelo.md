@@ -1,6 +1,5 @@
 ---
 
-layout: default
 modal-id: 2
 date: 2016-08-24
 img: webcamelo.png
