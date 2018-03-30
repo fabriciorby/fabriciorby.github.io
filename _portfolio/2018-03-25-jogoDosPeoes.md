@@ -3,8 +3,8 @@
 layout: default
 modal-id: 3
 date: 2018-03-25
-img: webcamelo.png
-alt: WebCamelo
+img: jogoDosPeoes.png
+alt: Jogo dos Peões
 project-date: March 2018
 title: Jogo dos Peões
 link: <a target="_blank" href="https://fabriciorby.me/jogoDosPeoes/"> Website </a> / <a target="_blank" href="https://github.com/fabriciorby/jogoDosPeoes/"> Github repo </a>.
