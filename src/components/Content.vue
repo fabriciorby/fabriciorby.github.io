@@ -1,10 +1,17 @@
 <template>
   <content class="container-fluid text-center">
     <div class="content">
-      <img src="../assets/foto.jpg" class="rounded-circle foto img-fluid" height="200px" width="200px">
+      <img
+        src="../assets/foto.jpg"
+        class="rounded-circle foto img-fluid"
+        height="200px"
+        width="200px"
+      >
       <img src="../assets/nave.gif" class="foto-nave img-fluid" height="40px" width="480px">
-      <h2>Fabrício Yamamoto</h2>
-      <h4>Web Developer</h4>
+      <h1 class="text-dark font-effect-anaglyph">Fabrício Yamamoto</h1>
+      <h4 class="text-dark font-effect-anaglyph">Web Developer</h4>
+      <p>Software Development Analyst</p>
+      <p>Computer Science Student (UFABC)</p>
       <Menu/>
     </div>
   </content>
@@ -22,15 +29,33 @@ export default {
 </script>
 
 <style scoped>
+@media only screen and (max-width:640px) {
+    .container-fluid {
+        width: 95% !important;
+    }
+    h1 {
+      font-size: 30px;
+    }
+    h4 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 15px;
+    }
+}
+p {
+  margin: 0;
+}
 .container-fluid {
   display: flex;
   flex-direction: column;
   align-content: center;
-  width: 60%;
+  width: 70%;
+  margin-bottom: 5%;
 }
 .content {
   margin-top: 30%;
-  background-color:  rgba(255,255,255,0.8);;
+  background-color: rgba(255, 255, 255, 0.8);
   display: block;
   border-style: dashed;
   border-radius: 25px;

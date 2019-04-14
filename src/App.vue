@@ -26,6 +26,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
+  background-image: url("./assets/spaceBG2.gif");
 }
 html {
   height: 100%;
@@ -35,10 +36,7 @@ a {
   cursor: url("./assets/cursor.gif"), auto;
 }
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Mono", monospace;
   text-align: center;
-  color: #2c3e50;
-  background-image: url("./assets/spaceBG2.gif");
-  height: 100%;
 }
 </style>
