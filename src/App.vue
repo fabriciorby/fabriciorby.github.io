@@ -7,15 +7,11 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
-import Menu from "./components/Menu.vue";
 import Content from "./components/Content.vue";
 
 export default {
   name: "app",
   components: {
-    HelloWorld,
-    Menu,
     Content
   }
 };

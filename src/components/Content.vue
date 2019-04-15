@@ -29,7 +29,7 @@ export default {
 </script>
 
 <style scoped>
-@media only screen and (max-width:640px) {
+@media only screen and (max-width:750px) {
     .container-fluid {
         width: 95% !important;
     }
@@ -51,10 +51,9 @@ p {
   flex-direction: column;
   align-content: center;
   width: 70%;
-  margin-bottom: 5%;
 }
 .content {
-  margin-top: 30%;
+  margin-top: 25%;
   background-color: rgba(255, 255, 255, 0.8);
   display: block;
   border-style: dashed;
